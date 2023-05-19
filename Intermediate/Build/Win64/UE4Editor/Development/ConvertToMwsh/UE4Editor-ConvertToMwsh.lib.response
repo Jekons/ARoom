@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ConvertToMwsh.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\MyProject3\Intermediate\Build\Win64\MyProject3Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\MyProject3\Plugins\ConvertToMwsh\Intermediate\Build\Win64\UE4Editor\Development\ConvertToMwsh\Module.ConvertToMwsh.cpp.obj"
+"D:\Unreal Projects\MyProject3\Plugins\ConvertToMwsh\Intermediate\Build\Win64\UE4Editor\Development\ConvertToMwsh\Module.ConvertToMwsh.gen.cpp.obj"
+"D:\Unreal Projects\MyProject3\Plugins\ConvertToMwsh\Intermediate\Build\Win64\UE4Editor\Development\ConvertToMwsh\Default.rc2.res"
+/OUT:"D:\Unreal Projects\MyProject3\Plugins\ConvertToMwsh\Intermediate\Build\Win64\UE4Editor\Development\ConvertToMwsh\UE4Editor-ConvertToMwsh.lib"

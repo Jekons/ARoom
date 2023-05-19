@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ConvertToMwsh.cpp.obj": [
+			"ConvertToMwsh.cpp.obj",
+			"ConvertToMwshBPLibrary.cpp.obj"
+		],
+		"Module.ConvertToMwsh.gen.cpp.obj": [
+			"ConvertToMwsh.init.gen.cpp.obj",
+			"ConvertToMwshBPLibrary.gen.cpp.obj"
+		]
+	}
+}
